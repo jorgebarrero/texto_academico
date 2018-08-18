@@ -65,6 +65,12 @@ Un trabajo debe tener un solo objetivo principal y puede acompañarse de algunos
 
 Los lectores deben entender las limitaciones de la obra que se expresan en esta sección, de forma tal que queden expuestas las debilidades y sirva como marco de referencia para cualquier interpretación de los resultados.
 
+## Marco teórico o de referencia
+
+**Es una descripción de longitud variable que soporta la linea conceptual del trabajo**
+
+Esta sección explica el punto de vista adoptado por el autor y presenta formalmente los trabajos previos, los de otros autores y la experiencias documentadas que sirven como base teórica.
+
 ### Materiales y métodos
 
 **Es un conjunto de descripciones lo más detalladas posibles, que expliquen que se utilizó para realizar las actividades de investigación y como fueron utilizadas.**
