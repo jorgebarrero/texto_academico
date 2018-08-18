@@ -1,6 +1,7 @@
 # Partes de un texto académico
 
 Por: Jorge Barrero\
+e-mail: jorgebarrero@gmail.com\
 Sociedad Venezolana de Ciencias Naturales\
 Comité de Matemáticas y Tecnología\
 Caracas, agosto 2018
@@ -11,6 +12,9 @@ Redacción Académica\
 MiriadaX\
 MCA Business & Postgraduate School
 
+## Palabras clave
+
+Texto científico, redacción científica, investigación, presentación de resultados.
 
 
 ## Resumen
