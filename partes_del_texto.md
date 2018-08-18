@@ -29,6 +29,19 @@ Debe considerarse que el resumen será leído tanto por expertos en la materia t
 
 Debemos facilitar el proceso de búsqueda automatizada por parte de los buscadores de información que usan estas palabras para indexar la obra. Hacemos especial énfasis en responder a la pregunta: Si alguien quisiera encontrar esta obra en un buscador web ¿qué palabras o frases escribiría?.
 
+### Indice general
+
+**Lista de títulos u subtítulos de la obra**
+
+Se usa para facilitar la ubicación de los textos formales y para presentar la obra debidamente ordenada.
+
+
+### Indices especiales
+**Lista de títulos de gráficos, ilustraciones, otros elementos relevantes.**
+
+Cuando exista un numero considerable de ilustraciones, mapas, gráficos, tablas y otros materiales de soporte,
+se recomienda que se utilicen listas de indice sepaqradas el indice principal y así facilitamos la ubicación de dichos materiales al lector.
+
 ### Glosario de términos y abreviaturas
 
 **Lista alfabéticamente organizada de las palabra y abreviaturas con significados especiales.**
@@ -71,7 +84,7 @@ Los lectores deben entender las limitaciones de la obra que se expresan en esta 
 
 Esta sección explica el punto de vista adoptado por el autor y presenta formalmente los trabajos previos, los de otros autores y la experiencias documentadas que sirven como base teórica.
 
-### Materiales y métodos
+### Metodología (Materiales y métodos)
 
 **Es un conjunto de descripciones lo más detalladas posibles, que expliquen que se utilizó para realizar las actividades de investigación y como fueron utilizadas.**
 
@@ -101,7 +114,7 @@ Aquí se presentan los elementos relevantes de la discusión partiendo de las ma
 
 En esta sección, hay cierta libertad para desapegarse del texto original e introducir elementos subjetivos que no requieren mayores justificaciones. El lector tomará estas palabras como reflexiones del autor sin que ellas afecten el resultado de la obra en general.
 
-### Referencias
+### Referencias (bibliografía y otras)
 
 **Lista organizada alfabéticamente que presenta de forma estructurada las fuentes de información de terceros.**
 
