@@ -19,6 +19,8 @@ Presentamos un breve glosario de los términos con los cuales son conocidas las 
 
 
 ## Indice
+
+PRESENTACIÓN
 - Título
 - Identificación de la propiedad intelectual
 - Resumen
@@ -26,16 +28,24 @@ Presentamos un breve glosario de los términos con los cuales son conocidas las 
 - Indice general
 - Indices especiales
 - Glosario de términos y abreviaturas
+
+INTRODUCCIÓN
 - Introducción
 - Justificación
 - Antecedentes
 - Objetivo
 - Alcance
+
+INVESTIGACIÓN
 - Marco teórico o de referencia
-- Metodología (Materiales y métodos)
+- Metodología (Materiales y métodos)i
 - Resultados
+
+DISCUSIÓN
 - Discusión
 - Conclusiones
 - Recomendaciones
+
+SOPORTES
 - Referencias (bibliografía y otras)
 - Anexos
