@@ -1,4 +1,5 @@
 ## Nombres y descripción de las diferentes partes que conforman un texto académico
+
 ### Título
 
 **Es un resumen de toda la obra en una sola frase.**
