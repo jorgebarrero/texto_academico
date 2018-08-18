@@ -11,6 +11,8 @@ Redacción Académica\
 MiriadaX\
 MCA Business & Postgraduate School
 
+
+
 ## Resumen
 
 Presentamos un breve glosario de los términos con los cuales son conocidas las diferentes secciones de un trabajo académico. Aunque no todos los textos académicos usan todas las áreas mencionadas, se describen brevemente para indicar, que son y cual es su propósito.
@@ -27,6 +29,7 @@ Presentamos un breve glosario de los términos con los cuales son conocidas las 
 - Antecedentes
 - Objetivo
 - Alcance
+- Marco teórico o de referencia
 - Materiales y métodos
 - Resultados
 - Discusión
